@@ -32,7 +32,7 @@ Este projeto é um cliente React que consome a API de gerenciamento de itens. El
    ```
 4. Configure a URL da API no arquivo `src/services/api.js`:
    ```javascript
-   const API_URL = 'http://localhost:3000'; // URL da API
+   const API_URL = 'http://localhost:4000'; // URL da API
    ```
 5. Inicie o servidor de desenvolvimento:
    ```bash
